@@ -1,17 +1,16 @@
-# Android Project 4 - *Name of App Here*
+# Android Project 4 - Flixster pt 2
 
-Submitted by: **Your Name Here**
+Submitted by: Ajani Johnson
+Flixster is a movie browsing app that allows users to browse movies
 
-**Name of your app** is a movie browsing app that allows users to browse ... [TODO] 
-
-Time spent: **X** hours spent in total
+Time spent: 8 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 - [x] **Choose any endpoint on The MovieDB API except `now_playing`**
-  - Chosen Endpoint: `[TODO: FILL ME IN TO GET CREDIT]`
+  - Chosen Endpoint: `"release_date"`
 - [] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
 - [x] **Use Glide to load and display at least one image per entry**
 - [x] **Click on an entry to view specific details about that entry using Intents**
